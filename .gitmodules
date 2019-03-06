@@ -1,7 +1,3 @@
 [submodule "DiscordMusicBot"]
 	path = DiscordMusicBot
 	url = https://github.com/Jiiks/DiscordMusicBot.git
-
-[submodule "discord-logger"]
-	path = discord-logger
-	url = https://github.com/richardkriesman/discord-logger.git
