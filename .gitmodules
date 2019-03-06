@@ -1,0 +1,3 @@
+[submodule "DiscordMusicBot"]
+	path = DiscordMusicBot
+	url = https://github.com/Jiiks/DiscordMusicBot.git
