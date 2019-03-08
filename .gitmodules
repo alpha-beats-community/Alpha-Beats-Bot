@@ -1,3 +1,9 @@
 [submodule "discord-logger"]
 	path = discord-logger
 	url = https://github.com/richardkriesman/discord-logger.git
+[submodule "MusicBot"]
+	path = MusicBot
+	url = https://github.com/jagrosh/MusicBot.git
+[submodule "modmail"]
+	path = modmail
+	url = https://github.com/kyb3r/modmail.git
